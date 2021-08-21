@@ -7,6 +7,7 @@ const HelloVueApp = {
         { id: 3, name: "Hiking Socks", quantity: 5 },
         { id: 4, name: "Compass", quantity: 2 },
       ],
+      title: "Vue tutorial",
     };
   },
   methods: {},
